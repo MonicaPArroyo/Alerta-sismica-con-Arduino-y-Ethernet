@@ -1,6 +1,6 @@
 #include <EtherCard.h> // librería para el uso del módulo ENC28J60
-#include "SoftwareSerial.h" // librería para asignar dos pines adicionales para la Comunicación Serial
-#include "DFRobotDFPlayerMini.h" // librería para controlar el reproductor MP3 DF Player Mini
+#include <SoftwareSerial.h> // librería para asignar dos pines adicionales para la Comunicación Serial
+#include <DFRobotDFPlayerMini.h> // librería para controlar el reproductor MP3 DF Player Mini
 
 #define PILOTO 6 // pin para conectar el LED piloto
 
